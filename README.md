@@ -11,8 +11,9 @@ To establish a functioning Active Directory domain environment, as its essential
 ## Prerequisites / Technologies Used
 
 * Microsoft Azure Portal
-* Windows Server 2022
-* Windows 10
+* Knowledge of Azure Resource Groups, Virtual Machines, Virtual Networks, etc. 
+* VM Windows Server 2022
+* VM Windows 10
 * Remote Desktop Protocol (RDP)
 * PowerShell
 * Command Prompt
