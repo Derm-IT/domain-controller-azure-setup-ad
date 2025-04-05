@@ -151,5 +151,7 @@ DC-1 has now been successfully set up as Domain Controller running Active Direct
 * Learned the initial steps for setting up a domain controller in Azure, an essential skill for systems administration.
 * Demonstrated knowledge of Azure network components, including resource groups, virtual networks, and subnets.
 * Utilized RDP, Command Prompt, and PowerShell for remote machine management and network troubleshooting.
+* Successfully installed and configured Active Directory Domain Services on a Windows Server 2022 VM in Azure.
+* Promoted the server to a domain controller and created a new domain.
 * This setup lays the groundwork for future Active Directory configurations and management tasks.
-* Emphasized the importance of not deleting the VMs for future projects, and the proper way to save money on Azure VMs, by stopping them.
+
